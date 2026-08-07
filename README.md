@@ -11,7 +11,7 @@
     </td>
     <td>
       <strong>Rosaya-qwq</strong><br>
-      OI 讲师 / 课件维护者<br>
+      算法竞赛讲师 / 课件维护者<br>
       <a href="mailto:fishfinfan@mail.ustc.edu.cn">fishfinfan@mail.ustc.edu.cn</a><br>
       <a href="https://github.com/Rosaya-qwq">github.com/Rosaya-qwq</a>
     </td>
